@@ -1,1 +1,1 @@
-# myliquidapp.github.io
+myliquidapp.com
