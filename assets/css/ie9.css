@@ -1,17 +1,11 @@
 /*
-	Big Picture by HTML5 UP
-	html5up.net | @n33co
+	Twenty by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Loader */
+/* Banner */
 
-	body:before, body:after {
-		display: none !important;
-	}
-
-/* Poptrox */
-
-	.poptrox-popup .loader {
-		display: none !important;
+	#banner .inner {
+		opacity: 1.0;
 	}
